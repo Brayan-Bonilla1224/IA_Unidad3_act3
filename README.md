@@ -1,6 +1,6 @@
 # Corporación Universitaria Iberoamericana
 # Ingeniería de Software | Inteligencia artificial
-# Búsquedas y sistemas Basados en Reglas
+# Métodos de aprendizaje supervisado
 
 Presentamos en este repositorio el código Python Método de aprendizaje supervisado: Identifique y describa fuentes de datos relacionadas con el proyecto del transporte masivo propuesto en las actividades anteriores, con el fin de desarrollar modelos de aprendizaje supervisado. En caso de no existir dichas fuentes de datos, desarrolle un dataset con una muestra de dichos datos. Desarrolle los comandos en Python necesarios para el desarrollo de modelo de aprendizaje automático basado en las fuentes de datos identificadas.
 
